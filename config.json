@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercpdate",
+        "uuid": 102592,
+        "checksum": "q32x6c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
